@@ -33,14 +33,6 @@
 
 #utility
 /rgbds-0.5.2
-/.vs/VSWorkspaceState.json
-/.vs/slnx.sqlite
-/.vs/ProjectSettings.json
-/.vs/PokeGen1.5/v17/.suo
-/.vs/PokeGen1.5/v17/Browse.VC.db
-/.vs/PokeGen1.5/v17/Browse.VC.db-shm
-/.vs/PokeGen1.5/v17/Browse.VC.db-wal
-/.vs/PokeGen1.5/v17/Browse.VC.opendb
+/.vs/*
 *.bin
-/.vs/slnx.sqlite-journal
 /scan_includes.exe.stackdump
